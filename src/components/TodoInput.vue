@@ -22,7 +22,7 @@
 				this.clearInput();
 			},
 			clearInput: function () {
-				console.log(this);
+				// console.log(this);
 				this.inputText = '';
 			}
 		}
